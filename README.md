@@ -1,6 +1,6 @@
 # nschloe Restored
 
-Several of the packages of Nico Schlömer ([nschloe](https://github.com/nschloe)) have been shoahed, and this is my attempt to resurrect them from the metaphorical ashes, and preserve the latest versions of the still-surviving ones.
+Several of the packages of Nico Schlömer ([nschloe](https://github.com/nschloe)) have been shoahed, and this is my attempt at resurrecting them from the metaphorical ashes, and preserving the latest versions of the still-surviving ones.
 
 Thanks to [diego-hayashi](https://github.com/diego-hayashi), among others, for forking several of these repositories when they were still functional.
 
